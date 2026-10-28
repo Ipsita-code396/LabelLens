@@ -1,7 +1,8 @@
 streamlit
 easyocr
-numpy
-pillow
 opencv-python-headless
+pillow
+numpy
 deep-translator
-gTTS
+gtts
+pyspellchecker
