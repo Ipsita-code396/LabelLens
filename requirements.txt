@@ -1,0 +1,7 @@
+streamlit
+easyocr
+numpy
+pillow
+opencv-python-headless
+deep-translator
+gTTS
