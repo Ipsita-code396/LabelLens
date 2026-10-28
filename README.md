@@ -120,11 +120,12 @@ gTTS
 
 ## Team
 
-Built for a 24-hour hackathon by **<team name>**:
+Built for a 24-hour hackathon by **<INFINITE LOOP>**:
 
-- <member 1>
-- <member 2>
-- <member 3>
+- <Kaushiki Gupta>
+- <Ipsita Kirati>
+- <Vaishnavi Rastogi>
+- <Mahi Singh>
 
 ## Disclaimer
 
