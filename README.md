@@ -57,7 +57,7 @@ Photo -> Preprocess -> OCR -> Confidence filter -> Translate -> Read aloud
 
 **Requirements:** Python 3.10 or newer, and an internet connection (translation and text-to-speech need it).
 
-Open http://localhost:8501 in your browser.
+Open (https://lablelens-ccakpmadpwgh2zm48ev4ul.streamlit.app/) in your browser.
 
 > The first run downloads the EasyOCR models (a few hundred MB), so it can take a few minutes. After that it starts quickly.
 
