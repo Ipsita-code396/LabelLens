@@ -57,18 +57,6 @@ Photo -> Preprocess -> OCR -> Confidence filter -> Translate -> Read aloud
 
 **Requirements:** Python 3.10 or newer, and an internet connection (translation and text-to-speech need it).
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the app
-streamlit run app.py
-```
-
 Open http://localhost:8501 in your browser.
 
 > The first run downloads the EasyOCR models (a few hundred MB), so it can take a few minutes. After that it starts quickly.
