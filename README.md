@@ -123,9 +123,9 @@ gTTS
 Built for a 24-hour hackathon by **<INFINITE LOOP>**:
 
 - Kaushiki Gupta
-- <Ipsita Kirati>
-- <Vaishnavi Rastogi>
-- <Mahi Singh>
+- Ipsita Kirati
+- Vaishnavi Rastogi
+- Mahi Singh
 
 ## Disclaimer
 
